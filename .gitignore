@@ -1,0 +1,8 @@
+*.kicad_pcb-bak
+*.sch-bak
+Board/RailcomSwitchChanger-backups/
+Board/3dmodel/
+archive/
+Firmware/.vs/
+Firmware/Debug/
+Firmware/Release/
