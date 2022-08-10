@@ -10,3 +10,7 @@ NMRA DCC 規格のうち、BiDi (RailCom) によって送信される車両の�
 
 - KiCad Version (5.1.12)-1
 - Microchip Studio Version 7.0.2542
+
+## 各種ドキュメント
+
+  * [パーツリスト](docs/partslist.md)
