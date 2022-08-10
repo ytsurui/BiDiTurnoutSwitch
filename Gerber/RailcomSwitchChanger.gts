@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,(5.1.12)-1*%
-%TF.CreationDate,2022-05-11T19:33:38+09:00*%
+%TF.CreationDate,2022-08-11T01:09:08+09:00*%
 %TF.ProjectId,RailcomSwitchChanger,5261696c-636f-46d5-9377-697463684368,rev?*%
 %TF.SameCoordinates,PX632ea00PY7459280*%
 %TF.FileFunction,Soldermask,Top*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (5.1.12)-1) date 2022-05-11 19:33:38*
+G04 Created by KiCad (PCBNEW (5.1.12)-1) date 2022-08-11 01:09:08*
 %MOMM*%
 %LPD*%
 G01*
@@ -541,6 +541,10 @@ D31*
 %TO.C,R18*%
 X30500000Y38200000D03*
 X30500000Y36600000D03*
+%TD*%
+%TO.C,R42*%
+X63500000Y46550000D03*
+X63500000Y44950000D03*
 %TD*%
 D39*
 X71766032Y60359417D02*
